@@ -78,5 +78,12 @@ const emojiItems = [
         emojiImgs: "🧸🍯🐅🤔",
         genres: ["childrens", "classic", "fantasy"],
         year: 1926
+    },
+    {
+        title: "The Grapes of Wrath",
+        author: "John Steinbeck",
+        emojiImgs: "🍇 😤",
+        genres: ["novel","fiction","literature"],
+        year: 1939
     }
 ]
